@@ -19,13 +19,6 @@ HyperText Markup Language (HTML) is the standard markup language for creating we
 - [HTML & CSS Shayhowe](http://learn.shayhowe.com/html-css/)
 - [Brackets](http://brackets.io/)
 
-#### Some Cool Html Tutorials
-- [w3schools](http://www.w3schools.com/html/)
-- [Tutorial Points](https://www.tutorialspoint.com/html/)
-- [Html Dogs](http://htmldog.com/guides/html/beginner/)
-- [Html Goodies](http://www.htmlgoodies.com/primers/html/article.php/3478131)
-- [HTML & CSS Shayhowe](http://learn.shayhowe.com/html-css/)
-- [Quackit Html Tutorial](http://www.quackit.com/html/tutorial/)
 
 ### Syntax highlighting
 [Rainbow](https://craig.is/making/rainbows)
