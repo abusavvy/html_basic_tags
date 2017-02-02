@@ -1,0 +1,10 @@
+body{font-family:sans-serif;color:#fff}
+form{width:420px;padding:10px;background:rgb(0,73,149)}
+label{color:#fcfcfc;width:100%;font-size:16px;margin:8px 0;display:block}
+input[type="text"],
+input[type="email"],
+input[type="password"]{width:400px;padding:5px;border:none;margin-bottom:10px}
+select{border:none;padding:5px}
+textarea{border:none;width:400px;margin-bottom:20px}
+button{padding:10px;border-radius:5px;cursor:pointer;border:1px solid #fff;background:rgb(18,184,236)}
+button:hover{background:rgb(255,255,236)}

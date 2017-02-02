@@ -1,0 +1,104 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0;
+	padding: 0;
+	color: rgb(255, 255, 255);
+	font-size: 16px;
+	font-family: sans-serif;
+	background-color: #00A5E2;
+}
+
+/* misc */
+pre .string, pre .comment.docstring, code .string, code .comment.docstring {
+	color: #D20;
+	background-color: transparent;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+}
+ol, ul {
+	padding-left: 15px;
+}
+.container {
+	width: 960px;
+	max-width: 98%;
+	padding: 0 1%;
+	margin: 0 auto;
+	background: #032477;
+}
+header {
+	padding: 30px 0 0;
+	text-align: center;
+}
+header h1 span {
+	display: block;
+	font-weight: normal;
+	font-size: 0.75em;
+	margin-top: 5px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+header h1 {
+	margin: 0;
+}
+pre {
+	padding: 10px;
+	background: url(../img/blueprint.png) top center #ccebff;
+	border-left: 5px solid #558abb;
+	overflow: auto;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+	display: block;
+	margin-bottom: 10px;
+}
+.title {
+	margin-bottom: 10px;
+}
+.title h2 {
+	font-size: 1.5em;
+}
+.title span {
+	font-size: .75em;
+	font-style: italic;
+	color: greenyellow;
+}
+.output {
+	color: #06246F;
+	background: url(../img/blueprint.png) top center #ccebff;
+	border-left: 5px solid #558abb;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.output a {
+	color: #032477;
+}
+
+label, input, checkbox, radio, button, select{
+    display: block;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+footer p {
+    color: #fff;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+footer li,footer a{
+	display: inline-block;
+
+}
+
+footer a{
+color:greenyellow
+}
