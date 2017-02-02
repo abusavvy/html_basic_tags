@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title><!-- add page title with this tag-->
+    <link rel="stylesheet" href=""> <!-- add css with this tag-->
+</head>
+<body>
+    <!-- the content of your website ... html tags-->
+</body>
+</html>
