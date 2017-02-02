@@ -30,9 +30,4 @@ HyperText Markup Language (HTML) is the standard markup language for creating we
 ### Syntax highlighting
 [Rainbow](https://craig.is/making/rainbows)
 
-- [x] testing my work
-- [ ] business is cool
-- [ ] this is cool and nice
-- [ ] my life is so cool
-
 Compiled by Oyerogba Abubakar: [abusavvy@gmail.com](abusavvy@gmail.com)
