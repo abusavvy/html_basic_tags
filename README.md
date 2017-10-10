@@ -17,7 +17,7 @@ HyperText Markup Language (HTML) is the standard markup language for creating we
 - [Html Dogs](http://htmldog.com/guides/html/beginner/)
 - [Html Goodies](http://www.htmlgoodies.com/primers/html/article.php/3478131)
 - [HTML & CSS Shayhowe](http://learn.shayhowe.com/html-css/)
-- [Brackets](http://brackets.io/)
+
 
 
 ### Syntax highlighting
