@@ -25,4 +25,6 @@ HyperText Markup Language (HTML) is the standard markup language for creating we
 
 [Rainbow](https://craig.is/making/rainbows)
 
-Compiled by Oyerogba Abubakar: [abusavvy@gmail.com](abusavvy@gmail.com)
+Compiled by Oyerogba Abubakar:
+
+Email: abusavvy@gmail.com
